@@ -1,0 +1,7 @@
+123328X;Juan;Rodriguez;23;DAW3
+253528X;Rodrigo;Petra;23;DAW3
+34534528X;Wow;Hola;23;DAW3
+352358X;Mari;Manolo;23;DAW3
+54353428X;LOCO;Manolo;23;DAW3
+123;Justin;Suarez;23;DAM3
+12345;Manolito;Jepito;23;DAM9

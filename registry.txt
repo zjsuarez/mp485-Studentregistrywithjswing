@@ -1,0 +1,6 @@
+123328X;Juan;Rodriguez;23;DAW3
+352358X;Mari;Manolo;23;DAW3
+8589201X;Justin;Suarez;6;DAM1
+12312Z;Marvin;vinmar;21;DAM1
+55312364F;Antonio;Montana;23;DAM
+12345674F;Jose;Artic;8;DAM
